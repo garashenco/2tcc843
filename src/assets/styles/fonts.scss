@@ -1,0 +1,29 @@
+@font-face {
+    font-family: 'Arial Regular';
+    src: url('../fonts/ArialMT.eot');
+    src: url('../fonts/ArialMT.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/ArialMT.woff') format('woff'),
+        url('../fonts/ArialMT.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Arial Bold';
+    src: url('../fonts/Arial-BoldMT.eot');
+    src: url('../fonts/Arial-BoldMT.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/Arial-BoldMT.woff') format('woff'),
+        url('../fonts/Arial-BoldMT.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'PT Sans Bold';
+    src: url('../fonts/PTSans-Bold.eot');
+    src: url('../fonts/PTSans-Bold.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/PTSans-Bold.woff') format('woff'),
+        url('../fonts/PTSans-Bold.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
